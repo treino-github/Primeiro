@@ -32,9 +32,9 @@
 ###
 
 <div align="left">
-<a url="https://www.instagram.com/janine_oliveiraa/">
+<a href="https://www.instagram.com/janine_oliveiraa/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a url="linkedin.com/in/janine-de-oliveira">
+  <a href="linkedin.com/in/janine-de-oliveira">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
